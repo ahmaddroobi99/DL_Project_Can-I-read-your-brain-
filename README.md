@@ -1,19 +1,13 @@
-# DL_Project_Can-I-read-your-brain-
+# Can I read your brain? — FC network → felt emotion
 
-I am predicting the experienced feeling from the FC brain network with deep learning.
+Deep-learning project / hackathon (2024): predict the **experienced feeling** from a functional-connectivity (FC) brain network.
 
-This repository is **original work** on this account. It is kept for provenance.
+- `generate_data/load_hcp.ipynb` — HCP-style data load
+- `hack.ipynb`, `hackathon_2_visualize.ipynb` — model and viz
+- `presentaion/read_brain_presentaion.pptx` — talk slides
 
-It is **not** current research. Featured work:
+A course/hackathon experiment, not a clinical decoder.
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
+---
+MSc-period work (University of Calgary, 2024). Not the public lab — see [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) for the public QG DA demo.
 
-## Language
-
-Jupyter Notebook
-
-## Year
-
-2024
